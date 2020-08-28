@@ -1,7 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
 
   
 #include<stdio.h>
